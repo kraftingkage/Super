@@ -37,6 +37,7 @@
         <sprite>sprites\sprVictoria</sprite>
       </sprites>
     </sprites>
+    <sprite>sprites\yolo</sprite>
   </sprites>
   <backgrounds name="background">
     <background>background\brStart</background>
