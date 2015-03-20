@@ -37,7 +37,11 @@
         <sprite>sprites\sprVictoria</sprite>
       </sprites>
     </sprites>
+<<<<<<< HEAD
     <sprite>sprites\yolo</sprite>
+=======
+    <sprite>sprites\Player_player_</sprite>
+>>>>>>> origin/master
   </sprites>
   <backgrounds name="background">
     <background>background\brStart</background>
